@@ -47,6 +47,9 @@ o	Training Type Summary Table: Highlights training types, number of certificates
 💡 As of 2025, 27 out of 35 certifications remain valid. 
 💡Training cost dropped by 22% below budget, driven mainly by cost reductions in Finance and Customer Support departments.
 💡2025 training Cost for the IT department saw a massive increase as compared to the previous year due to the essential need to prioritize Agile practice and cybersecurity
+
+
+
 ________________________________________Developed by:
 Henry Ikhile
 Data Analyst
