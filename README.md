@@ -1,6 +1,8 @@
 # Employee-Training-Power-BI-Dashboard
 
 📊 **Employee Training and Certification Tracking Dashboard**
+<img width="1625" height="801" alt="image" src="https://github.com/user-attachments/assets/7d9c1c33-ccfa-4778-8ed5-35462c228115" />
+
 
 This Power BI dashboard was designed to track and analyze employee certifications, training programs, and related costs across departments. The primary goal is to provide HR and management with actionable insights to monitor certification status, manage recertification timelines, and optimize training budgets.
 
