@@ -26,6 +26,9 @@ o	Record Type Breakdown: Donut chart showing distribution of certifications by t
 o	Employee & Training Details Table: Lists employee names, departments, training providers, and 2025 training costs
 o	Training Type Summary Table: Highlights training types, number of certificates, and 2025 cost distribution
 
+<img width="1458" height="800" alt="image" src="https://github.com/user-attachments/assets/2122859e-94ff-46c4-827a-23cd7f19b9b8" />
+
+
 4. **Drillthrough for Department Overview**
 •  The report includes an interactive drill-through functionality that allows users to navigate from summary-level data to detailed insights specific to each department.
    By right-clicking on a department in the main dashboard, users can drill through to a detailed page that displays granular data, key performance indicators, and trends relevant to that particular department.
