@@ -31,6 +31,8 @@ o	Training Type Summary Table: Highlights training types, number of certificates
    By right-clicking on a department in the main dashboard, users can drill through to a detailed page that displays granular data, key performance indicators, and trends relevant to that particular department.
    This feature enhances user experience by enabling deeper exploration without cluttering the main report, facilitating better understanding and faster decision-making at both high-level and detailed views.
 
+<img width="1451" height="786" alt="image" src="https://github.com/user-attachments/assets/0ae35b32-e5d5-4bf2-b8f1-a81d79b122a8" />
+
 
 💡**Tools & Techniques Used**
 •	Power BI Desktop
